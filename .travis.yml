@@ -1,6 +1,8 @@
 language: php
 php:
   - 7.3
+install:
+  - composer require symfony/console
 script:
   - php ok.php
   - php throw.php

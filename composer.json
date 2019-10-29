@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/console": "^4.3",
+        "symfony/framework-bundle": "^4.3",
+        "symfony/event-dispatcher": "^4.3"
+    }
+}
