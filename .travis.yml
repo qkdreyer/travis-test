@@ -4,4 +4,4 @@ php:
 script:
   - php ok.php
   - php throw.php
-  - php exit.php
+  # - php exit.php
